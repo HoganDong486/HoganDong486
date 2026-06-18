@@ -48,16 +48,45 @@ I'm a sophomore-to-junior CS student passionate about **AI Agents**, **Full-Stac
 
 ---
 
-### Projects
+### Projects — Hogan Dong Agent Stack
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **OpenCode Browser MCP** | Production-ready browser MCP server for AI agents. Built on Playwright. | Python · Playwright · MCP | [Repo](https://github.com/HoganDong486/opencode-browser-mcp) |
-| **RAG Research Agent** | LLM-powered paper retrieval & QA agent with autonomous multi-query search | Python · ChromaDB · FastAPI · OpenAI | [Repo](https://github.com/HoganDong486/rag-research-agent) |
-| **MCP Server Toolkit** | Model Context Protocol server with filesystem, Git, database & calc tools | Python · JSON-RPC · SQLite | [Repo](https://github.com/HoganDong486/mcp-server-toolkit) |
-| **Multi-Agent Playground** | Collaborative AI agent simulation (PM → Dev → Reviewer) with live LLM calls | React · TypeScript · Tailwind | [Repo](https://github.com/HoganDong486/multi-agent-playground) |
-| **SkVM Explorer** | Fork of SJTU-IPADS SkVM with study notes — Language VM for Agent Skills | TypeScript · Agents · Compilers | [Repo](https://github.com/HoganDong486/SkVM) |
-| **Portfolio Website** | Personal site built with React + Tailwind CSS | React · TypeScript · Tailwind | [Site](https://hogandong486.github.io) |
+```
+                       ┌─────────────────────────────────┐
+                       │     AgentForge (2,500+ lines)   │
+                       │  DAG Orchestrator & Evaluator    │
+                       │  github.com/HoganDong486/agentforge │
+                       └──────────┬──────────────────────┘
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          │                       │                       │
+          ▼                       ▼                       ▼
+┌─────────────────┐   ┌───────────────────┐   ┌──────────────────┐
+│ Browser MCP     │   │ MCP Toolkit       │   │ RAG Research     │
+│ (30 tools)      │   │ (12 tools)        │   │ Agent (v2.0)     │
+│                 │   │                   │   │                  │
+│ Browser vision  │   │ File / Git / DB   │   │ Paper Q&A +      │
+│ for AI agents   │   │ for agent tools   │   │ self-improvement │
+└─────────────────┘   └───────────────────┘   └──────────────────┘
+          │                       │                       │
+          └───────────────────────┼───────────────────────┘
+                                  │
+                                  ▼
+                       ┌──────────────────┐
+                       │ Agent Playground │
+                       │ PM→Dev→Reviewer  │
+                       │ Interactive demo │
+                       └──────────────────┘
+```
+
+| Role | Project | Stack | Lines |
+|------|---------|-------|:-----:|
+| Central Brain | **[AgentForge](https://github.com/HoganDong486/agentforge)** — Workflow orchestrator, agent evaluator, memory system | Python · FastAPI · ChromaDB · React | 2,500+ |
+| Eyes | **[Browser MCP](https://github.com/HoganDong486/opencode-browser-mcp)** — Browser control for AI agents (30 tools) | Python · Playwright · MCP | 600+ |
+| Toolbelt | **[MCP Toolkit](https://github.com/HoganDong486/mcp-server-toolkit)** — Filesystem, Git, DB tools via MCP | Python · JSON-RPC · SQLite | 500+ |
+| Knowledge | **[RAG Agent](https://github.com/HoganDong486/rag-research-agent)** — Paper indexing, vector Q&A, self-improving | Python · ChromaDB · OpenAI | 600+ |
+| Demo | **[Agent Playground](https://github.com/HoganDong486/multi-agent-playground)** — Interactive multi-agent simulation | React · TypeScript · LLM | 400+ |
+| Research | **[SkVM Explorer](https://github.com/HoganDong486/SkVM)** — Agent skill VM deep-dive & 600+ line study notes | TypeScript · Agents | Fork |
+| Home | **[Portfolio](https://hogandong486.github.io)** — Personal website | React · Tailwind | — |
 
 ---
 
