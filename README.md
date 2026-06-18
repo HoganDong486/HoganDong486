@@ -52,6 +52,7 @@ I'm a sophomore-to-junior CS student passionate about **AI Agents**, **Full-Stac
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| **OpenCode Browser MCP** | Production-ready browser MCP server for AI agents. Built on Playwright. | Python · Playwright · MCP | [Repo](https://github.com/HoganDong486/opencode-browser-mcp) |
 | **RAG Research Agent** | LLM-powered paper retrieval & QA agent with autonomous multi-query search | Python · ChromaDB · FastAPI · OpenAI | [Repo](https://github.com/HoganDong486/rag-research-agent) |
 | **MCP Server Toolkit** | Model Context Protocol server with filesystem, Git, database & calc tools | Python · JSON-RPC · SQLite | [Repo](https://github.com/HoganDong486/mcp-server-toolkit) |
 | **Multi-Agent Playground** | Collaborative AI agent simulation (PM → Dev → Reviewer) with live LLM calls | React · TypeScript · Tailwind | [Repo](https://github.com/HoganDong486/multi-agent-playground) |
