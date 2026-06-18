@@ -50,12 +50,13 @@ I'm a sophomore-to-junior CS student passionate about **AI Agents**, **Full-Stac
 
 ### Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| | **RAG Research Agent** — LLM-powered paper retrieval & QA agent | Python · ChromaDB · React · OpenAI |
-| | **MCP Server Toolkit** — Model Context Protocol server for AI Agent tool integration | Python · JSON-RPC · FastAPI |
-| | **Multi-Agent Playground** — Collaborative AI agent simulation (PM → Dev → Reviewer) | React · TypeScript · LLM APIs |
-| | **SkVM Explorer** — Fork of SJTU-IPADS SkVM with annotated study guide | Rust · Systems |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **RAG Research Agent** | LLM-powered paper retrieval & QA agent with autonomous multi-query search | Python · ChromaDB · FastAPI · OpenAI | [Repo](https://github.com/HoganDong486/rag-research-agent) |
+| **MCP Server Toolkit** | Model Context Protocol server with filesystem, Git, database & calc tools | Python · JSON-RPC · SQLite | [Repo](https://github.com/HoganDong486/mcp-server-toolkit) |
+| **Multi-Agent Playground** | Collaborative AI agent simulation (PM → Dev → Reviewer) with live LLM calls | React · TypeScript · Tailwind | [Repo](https://github.com/HoganDong486/multi-agent-playground) |
+| **SkVM Explorer** | Fork of SJTU-IPADS SkVM with study notes — Language VM for Agent Skills | TypeScript · Agents · Compilers | [Repo](https://github.com/HoganDong486/SkVM) |
+| **Portfolio Website** | Personal site built with React + Tailwind CSS | React · TypeScript · Tailwind | [Site](https://hogandong486.github.io) |
 
 ---
 
