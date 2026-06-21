@@ -4,7 +4,7 @@
 
 # Haozheng (Hogan) Dong
 
-**CS @ City University of Hong Kong (Dongguan)** · Class of 2027
+**CS @ City University of Hong Kong (Dongguan)** · Class of 2028
 
 [![GitHub followers](https://img.shields.io/github/followers/HoganDong486?style=social)](https://github.com/HoganDong486)
 [![Email](https://img.shields.io/badge/Email-hogan.d.486%40gmail.com-blue?logo=gmail)](mailto:hogan.d.486@gmail.com)
