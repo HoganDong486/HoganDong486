@@ -86,7 +86,7 @@ I'm a sophomore-to-junior CS student passionate about **AI Agents**, **Full-Stac
 | Knowledge | **[RAG Agent](https://github.com/HoganDong486/rag-research-agent)** — Paper indexing, vector Q&A, self-improving | Python · ChromaDB · OpenAI | 600+ |
 | Demo | **[Agent Playground](https://github.com/HoganDong486/multi-agent-playground)** — Interactive multi-agent simulation | React · TypeScript · LLM | 400+ |
 | Research | **[SkVM Explorer](https://github.com/HoganDong486/SkVM)** — Agent skill VM deep-dive & 600+ line study notes | TypeScript · Agents | Fork |
-| Home | **[Portfolio](https://hogandong486.github.io)** — Personal website | React · Tailwind | — |
+| Home | **[Agent Memory](https://github.com/HoganDong486/agent-memory)** — Zero-dependency persistent memory for AI coding agents. Two Markdown files. | Markdown · Doc | — |
 
 ---
 
